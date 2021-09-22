@@ -1,2 +1,3 @@
 #Ignore our large data file
 *.csv
+.DS_Store
