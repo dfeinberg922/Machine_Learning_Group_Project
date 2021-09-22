@@ -1,2 +1,2 @@
 #Ignore our large data file
-/Data/*.csv
+*.csv
